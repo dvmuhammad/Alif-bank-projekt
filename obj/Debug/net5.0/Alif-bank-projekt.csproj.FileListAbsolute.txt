@@ -1,0 +1,5 @@
+C:\Users\Мухаммад\Documents\Github\Alif-bank-projekt\obj\Debug\net5.0\Alif-bank-projekt.csprojAssemblyReference.cache
+C:\Users\Мухаммад\Documents\Github\Alif-bank-projekt\obj\Debug\net5.0\Alif-bank-projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мухаммад\Documents\Github\Alif-bank-projekt\obj\Debug\net5.0\Alif-bank-projekt.AssemblyInfoInputs.cache
+C:\Users\Мухаммад\Documents\Github\Alif-bank-projekt\obj\Debug\net5.0\Alif-bank-projekt.AssemblyInfo.cs
+C:\Users\Мухаммад\Documents\Github\Alif-bank-projekt\obj\Debug\net5.0\Alif-bank-projekt.csproj.CoreCompileInputs.cache
