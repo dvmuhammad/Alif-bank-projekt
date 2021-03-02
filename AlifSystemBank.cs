@@ -149,7 +149,7 @@ namespace Alif_bank_projekt
 
             Console.BackgroundColor = ConsoleColor.DarkGreen;
             Console.WriteLine("\n");
-            System.Console.WriteLine(input);
+            
             
             if (input>11)
             {
